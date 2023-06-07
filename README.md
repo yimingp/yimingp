@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 Welcome to my github profile. I am a video game programmer currently pursuing my Master in SMU Guildhall.
 
 ### yimingp.github.io
