@@ -2,8 +2,10 @@
 Welcome to my github profile. I am a video game programmer currently pursuing my Master in SMU Guildhall.
 
 # yimingp.github.io
-This is my portfolio website, feel free to check it out. [portfolio website](yimingp.github.io)
+This is my portfolio website, feel free to check it out. [link](yimingp.github.io)
 
+# Eror's Desk
+This is simulation game done in Unity. This project was made for my Creative Computing Capstone. 
 
 <!--
 **yimingp/yimingp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
